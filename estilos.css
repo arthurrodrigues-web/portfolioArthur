@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa; /* Cor de fundo suave */
+}
+
+/* Estilo para a imagem de perfil */
+.rounded-circle {
+    border: 3px solid #6c757d; /* Borda cinza suave */
+}
+
+/* Estilo para os cards */
+.card {
+    border-radius: 10px;
+}
+
+.card-header {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.list-group-item a {
+    text-decoration: none;
+    color: #000;
+}
